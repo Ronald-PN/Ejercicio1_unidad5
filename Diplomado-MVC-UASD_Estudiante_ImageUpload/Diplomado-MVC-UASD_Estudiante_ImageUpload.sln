@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diplomado-MVC-UASD_Estudiante_ImageUpload", "Diplomado-MVC-UASD_Estudiante_ImageUpload\Diplomado-MVC-UASD_Estudiante_ImageUpload.csproj", "{BF5B39E9-CCF2-4229-BBCA-DB2FDAE5EA5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diplomado-MVC-UASD_Estudiante_ImageUpload.Models", "Diplomado-MVC-UASD_Estudiante_ImageUpload.Models\Diplomado-MVC-UASD_Estudiante_ImageUpload.Models.csproj", "{CBCCBB6E-C78C-4E4C-B2CF-ED289BDE673F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF5B39E9-CCF2-4229-BBCA-DB2FDAE5EA5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF5B39E9-CCF2-4229-BBCA-DB2FDAE5EA5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF5B39E9-CCF2-4229-BBCA-DB2FDAE5EA5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF5B39E9-CCF2-4229-BBCA-DB2FDAE5EA5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBCCBB6E-C78C-4E4C-B2CF-ED289BDE673F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBCCBB6E-C78C-4E4C-B2CF-ED289BDE673F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBCCBB6E-C78C-4E4C-B2CF-ED289BDE673F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBCCBB6E-C78C-4E4C-B2CF-ED289BDE673F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E4FD950-B1FC-45A3-A838-F9521507A239}
+	EndGlobalSection
+EndGlobal
